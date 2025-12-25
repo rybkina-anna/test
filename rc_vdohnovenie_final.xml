@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rcfeed>
+  <version>1</version>
+
+  <objects>
+    <RCSchema>
+      <ExternalId>600714</ExternalId>
+
+      <Name>Вдохновение</Name>
+
+      <Description>
+        Во «Вдоховении» легко выбрать ту квартиру, которая создана именно для вас, —
+        от студии до просторной семейной резиденции. Для ценителей редких форматов
+        предусмотрены планировки с террасами, угловыми окнами, окнами в ванной и
+        двухуровневыми квартирами на верхних этажах.
+      </Description>
+
+      <Buildings>
+        <BuildingsSchema>
+          <ExternalId>8933828</ExternalId>
+          <Name>Вдохновение</Name>
+          <Class>comfort</Class>
+          <MaterialType>monolith</MaterialType>
+          <FloorsCount>15</FloorsCount>
+          <PassengerLiftsCount>30</PassengerLiftsCount>
+          <CargoLiftsCount>0</CargoLiftsCount>
+          <Address>Калининградская область, город Калининград</Address>
+
+          <!-- Координаты обернуты в тег <Coordinates> -->
+          <Coordinates>
+            <Latitude>54.719628</Latitude>
+            <Longitude>20.566704</Longitude>
+          </Coordinates>
+
+          <Deadline>
+            <Quarter>fourth</Quarter>
+            <Year>2026</Year>
+            <IsComplete>false</IsComplete>
+          </Deadline>
+        </BuildingsSchema>
+      </Buildings>
+
+      <Photos>
+        <PhotoSchema>
+          <FullUrl>https://reu.allio.agency/img/f551/8e89ad95f198bdf2b55bcde1f31c9c3d.jpg?24c8e811bbe32831e2e8161588237db6</FullUrl>
+          <IsDefault>true</IsDefault>
+        </PhotoSchema>
+      </Photos>
+
+    </RCSchema>
+  </objects>
+</rcfeed>
