@@ -4,7 +4,7 @@
   <objects>
     <RCSchema>
       <ExternalId>600714</ExternalId>
-      <Name>Вдохновение</Name>
+      <Name>Русская Европа</Name>
       <Description>
         ЭКОквартал «Русская Европа» ежегодно признается одним из лучших жилых комплексов России и отмечен знаком "Жилой комплекс №1 г. Калининград (рейтинг ЕРЗ.РФ). Это безупречное решение для тех, кто не боится лидерства и высоты, не ищет простых путей, держит высокую планку во всем, не останавливается на достигнутом и живет в ритме мегаполиса. 
         ЖК "Вдохновение" находится в престижном Ленинградском районе Калининграда в15 минутах от центра города. Удобный выезд на побережье Балтийского моря (25 минут) и в аэропорт (20 минут). Рядом остановка общественного транспорта.
@@ -46,6 +46,14 @@
         <PhotoSchema>
           <FullUrl>https://reu.allio.agency/img/f551/8e89ad95f198bdf2b55bcde1f31c9c3d.jpg?24c8e811bbe32831e2e8161588237db6</FullUrl>
           <IsDefault>true</IsDefault>
+        </PhotoSchema>
+        <PhotoSchema>
+          <FullUrl>https://reu.allio.agency/img/f551/7917dfb5a8020078ce84656a030cf236.jpg?8671dd59d9a417c688e292cc9ae1e21a</FullUrl>
+          <IsDefault>false</IsDefault>
+        </PhotoSchema>
+        <PhotoSchema>
+          <FullUrl>https://reu.allio.agency/img/f551/1cb09064cb32d88e7367bfa60ceb1a28.jpg?e0416f58ba27ce345550ef4aa187b7d4</FullUrl>
+          <IsDefault>false</IsDefault>
         </PhotoSchema>
       </Photos>
     </RCSchema>
